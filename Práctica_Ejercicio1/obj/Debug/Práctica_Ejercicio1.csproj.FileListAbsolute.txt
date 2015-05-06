@@ -1,0 +1,5 @@
+c:\users\carmelita\documents\visual studio 2012\Projects\Práctica_Ejercicio1\Práctica_Ejercicio1\bin\Práctica_Ejercicio1.dll
+c:\users\carmelita\documents\visual studio 2012\Projects\Práctica_Ejercicio1\Práctica_Ejercicio1\bin\Práctica_Ejercicio1.pdb
+c:\users\carmelita\documents\visual studio 2012\Projects\Práctica_Ejercicio1\Práctica_Ejercicio1\obj\Debug\Práctica_Ejercicio1.csprojResolveAssemblyReference.cache
+c:\users\carmelita\documents\visual studio 2012\Projects\Práctica_Ejercicio1\Práctica_Ejercicio1\obj\Debug\Práctica_Ejercicio1.dll
+c:\users\carmelita\documents\visual studio 2012\Projects\Práctica_Ejercicio1\Práctica_Ejercicio1\obj\Debug\Práctica_Ejercicio1.pdb
